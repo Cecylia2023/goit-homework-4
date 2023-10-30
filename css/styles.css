@@ -308,7 +308,7 @@ margin-right: auto;
 }
 .our-team-icon-link:hover,
 .our-team-icon-link:focus {
-    background-color: #31D0AA;
+    background-color: #404bbf;
 }
 
 
@@ -378,6 +378,9 @@ margin-right: auto;
 }
 .page-footer .accent {
     color: #f4f4fd;
+}
+.footer-logotype-box {
+    margin-right: 120px;
 }
 .page-footer-text {
 font-size: 16px;
